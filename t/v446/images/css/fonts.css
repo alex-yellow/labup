@@ -1,0 +1,128 @@
+/* Exo2 */
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-t.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-t-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-t.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-t.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-t.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-t.svg") format("svg");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-t-i.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-t-i-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-t-i.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-t-i.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-t-i.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-t-i.svg") format("svg");
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-e-l.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-e-l-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-e-l.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-e-l.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-e-l.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-e-l.svg") format("svg");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-e-l-i.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-e-l-i-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-e-l-i.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-e-l-i.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-e-l-i.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-e-l-i.svg") format("svg");
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-l.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-l-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-l.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-l.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-l.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-l.svg") format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-l-i.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-l-i-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-l-i.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-l-i.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-l-i.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-l-i.svg") format("svg");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-r.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-r-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-r.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-r.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-r.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-r.svg") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-i.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-i-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-i.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-i.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-i.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-i.svg") format("svg");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-m.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-m-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-m.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-m.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-m.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-m.svg") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-m-i.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-m-i-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-m-i.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-m-i.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-m-i.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-m-i.svg") format("svg");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-s-b.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-s-b-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-s-b.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-s-b.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-s-b.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-s-b.svg") format("svg");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-s-b-i.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-s-b-i-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-s-b-i.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-s-b-i.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-s-b-i.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-s-b-i.svg") format("svg");
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-b.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-b-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-b.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-b.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-b.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-b.svg") format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-b-i.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-b-i-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-b-i.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-b-i.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-b-i.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-b-i.svg") format("svg");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-e-b.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-e-b-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-e-b.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-e-b.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-e-b.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-e-b.svg") format("svg");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-e-b-i.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-e-b-i-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-e-b-i.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-e-b-i.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-e-b-i.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-e-b-i.svg") format("svg");
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-bl.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-bl-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-bl.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-bl.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-bl.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-bl.svg") format("svg");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Exo2";
+  src: url("../../../../g/fonts/exo_2/exo_2-bl-i.eot");
+  src: url("../../../../g/fonts/exo_2/exo_2-bl-i-1.eot") format("embedded-opentype"), url("../../../../g/fonts/exo_2/exo_2-bl-i.woff2") format("woff2"), url("../../../../g/fonts/exo_2/exo_2-bl-i.woff") format("woff"), url("../../../../g/fonts/exo_2/exo_2-bl-i.ttf") format("truetype"), url("../../../../g/fonts/exo_2/exo_2-bl-i.svg") format("svg");
+  font-weight: 900;
+  font-style: italic;
+}
+/* \Exo2 */

@@ -1,0 +1,56 @@
+<svg id="Bg33.svg" xmlns="http://www.w3.org/2000/svg" width="1770" height="905" viewBox="0 0 1770 905">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        opacity: 0.6;
+      }
+
+      .cls-3 {
+        fill: #00f4ff;
+      }
+
+      .cls-4 {
+        opacity: 0.1;
+      }
+
+      .cls-5 {
+        opacity: 0.15;
+      }
+
+      .cls-6 {
+        opacity: 0.07;
+      }
+    </style>
+  </defs>
+  <path id="Shape_2_copy_17" data-name="Shape 2 copy 17" class="cls-1" d="M520,463v1h23v-1H520ZM922,359v1h23v-1H922Zm-20-27v1h6v-1h-6Zm74,39v1h6v-1h-6Zm27,34v1h6v-1h-6Zm3-100v1h27v-1h-27Zm-46,28v1h19v-1H960Z" transform="translate(-150)"/>
+  <path id="Shape_2_copy_16" data-name="Shape 2 copy 16" class="cls-1" d="M996,174v-1h23v1H996Zm402,104v-1h23v1h-23Zm-20,27v-1h6v1h-6Zm74-39v-1h6v1h-6Zm27-34v-1h6v1h-6Zm3,100v-1h27v1h-27Zm-46-28v-1h19v1h-19Zm-395-6v1h23v-1h-23Zm402-104v1h23v-1h-23Zm-20-27v1h6v-1h-6Zm74,39v1h6v-1h-6Zm27,34v1h6v-1h-6Zm3-100v1h27v-1h-27Zm-46,28v1h19v-1h-19Z" transform="translate(-150)"/>
+  <path id="Shape_2_copy_15" data-name="Shape 2 copy 15" class="cls-1" d="M544,557v-1h23v1H544ZM946,661v-1h23v1H946Zm-20,27v-1h6v1h-6Zm74-39v-1h6v1h-6Zm27-34v-1h6v1h-6Zm3,100v-1h27v1h-27Zm-46-28v-1h19v1H984Zm-395-6v1h23v-1H589ZM991,577v1h23v-1H991Zm-20-27v1h6v-1h-6Zm74,39v1h6v-1h-6Zm27,34v1h6v-1h-6Zm3-100v1h27v-1h-27Zm-46,28v1h19v-1h-19Z" transform="translate(-150)"/>
+  <path id="Shape_2_copy_14" data-name="Shape 2 copy 14" class="cls-2" d="M1239,346v-1h23v1h-23Zm402,104v-1h23v1h-23Zm-20,27v-1h6v1h-6Zm74-39v-1h6v1h-6Zm27-34v-1h6v1h-6Zm3,100v-1h27v1h-27Zm-46-28v-1h19v1h-19Zm-395-6v1h23v-1h-23Zm402-104v1h23v-1h-23Zm-20-27v1h6v-1h-6Zm74,39v1h6v-1h-6Zm27,34v1h6v-1h-6Zm3-100v1h27v-1h-27Zm-46,28v1h19v-1h-19Z" transform="translate(-150)"/>
+  <path id="Shape_3_copy_19" data-name="Shape 3 copy 19" class="cls-3" d="M150,484v-1h7v1h-7Zm2-6h1v9h-1v-9Z" transform="translate(-150)"/>
+  <path id="Shape_3_copy_18" data-name="Shape 3 copy 18" class="cls-3" d="M317,265v-1h7v1h-7Zm2-6h1v9h-1v-9Z" transform="translate(-150)"/>
+  <path id="Shape_3_copy_17" data-name="Shape 3 copy 17" class="cls-3" d="M483,628v-1h7v1h-7Zm2-6h1v9h-1v-9Z" transform="translate(-150)"/>
+  <path id="Shape_3_copy_16" data-name="Shape 3 copy 16" class="cls-3" d="M650,87V86h7v1h-7Zm2-6h1v9h-1V81Z" transform="translate(-150)"/>
+  <path id="Shape_3_copy_15" data-name="Shape 3 copy 15" class="cls-3" d="M816,273v-1h7v1h-7Zm2-6h1v9h-1v-9Z" transform="translate(-150)"/>
+  <path id="Shape_3_copy_14" data-name="Shape 3 copy 14" class="cls-3" d="M983,694v-1h7v1h-7Zm2-6h1v9h-1v-9Z" transform="translate(-150)"/>
+  <path id="Shape_3_copy_13" data-name="Shape 3 copy 13" class="cls-3" d="M1320,626v-1h7v1h-7Zm2-6h1v9h-1v-9Z" transform="translate(-150)"/>
+  <path id="Shape_3_copy_12" data-name="Shape 3 copy 12" class="cls-3" d="M1486,451v-1h7v1h-7Zm2-6h1v9h-1v-9Z" transform="translate(-150)"/>
+  <path id="Shape_3_copy_11" data-name="Shape 3 copy 11" class="cls-3" d="M1653,250v-1h7v1h-7Zm2-6h1v9h-1v-9Z" transform="translate(-150)"/>
+  <path id="Ellipse_2_copy_8" data-name="Ellipse 2 copy 8" class="cls-4" d="M1199,833c-226.989,0-411-184.011-411-411S972.011,11,1199,11s411,184.011,411,411S1425.99,833,1199,833Zm0-817.674C974.4,15.326,792.326,197.4,792.326,422S974.4,828.674,1199,828.674,1605.67,646.6,1605.67,422,1423.6,15.326,1199,15.326Z" transform="translate(-150)"/>
+  <path id="Ellipse_2_copy_7" data-name="Ellipse 2 copy 7" class="cls-4" d="M1199.5,699C1046.79,699,923,575.207,923,422.5S1046.79,146,1199.5,146,1476,269.793,1476,422.5,1352.21,699,1199.5,699Zm0-550.089c-151.1,0-273.589,122.49-273.589,273.589S1048.4,696.089,1199.5,696.089,1473.09,573.6,1473.09,422.5,1350.6,148.911,1199.5,148.911Z" transform="translate(-150)"/>
+  <g>
+    <path id="Shape_2_copy_6" data-name="Shape 2 copy 6" class="cls-5" d="M486,905h-1V-61h1V905Zm-166,0h-1V-61h1V905Zm-167,0h-1V-61h1V905Zm833,0h-1V-61h1V905Zm-167,0h-1V-61h1V905Zm-166,0h-1V-61h1V905Z" transform="translate(-150)"/>
+    <path id="Shape_2_copy_5" data-name="Shape 2 copy 5" class="cls-6" d="M1489,905h-1V-61h1V905Zm-166,0h-1V-61h1V905Zm-167,0h-1V-61h1V905Zm833,0h-1V-61h1V905Zm-167,0h-1V-61h1V905Zm-166,0h-1V-61h1V905Z" transform="translate(-150)"/>
+  </g>
+</svg>

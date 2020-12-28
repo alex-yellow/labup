@@ -1,0 +1,42 @@
+textarea,
+input{
+	outline: none!important;
+	max-width: 100% !important;
+}
+
+button:focus{
+	outline: none!important;
+}
+
+.content img{
+	max-width: 100%;
+}
+
+*{
+	word-wrap: normal;
+}
+
+.no_click{
+	pointer-events: none !important;
+}
+
+.form-43 .form-success,
+.title-page .form-43 .form-success{
+	color: #fff;
+    font-size: 16px;
+}
+
+@media(max-width:960px){
+	.site-name-12 img,
+	.title-page .site-name-12 img{
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@media(max-width:480px){
+	.form-43 .form-text,
+	.title-page .form-43 .form-text{
+		width: 100%;
+	}
+}
